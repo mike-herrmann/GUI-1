@@ -2,7 +2,7 @@ Michael Herrmann
 GUI 1
 HW5
 Write-up Document
-
+ 
 Out of all the fetures that we had to create I almost got all of them to work.
 	The fetures that are currently working are the set up. The website correctly 
 	sets up the game and has all the correct variations of the tiles and the
